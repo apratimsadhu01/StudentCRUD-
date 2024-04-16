@@ -1,2 +1,2 @@
-# StudentCRUD-
+# StudentCRUD
 CRUD example
